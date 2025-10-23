@@ -5,8 +5,7 @@ var Circulo = function(nuevoRadio){
   }
 };
 
-a = new Circulo(5.0);
-b = new Circulo(2);
+
 
 console.log("Área de a: "+ a.area());
 console.log("Área de b: "+ b.area());
